@@ -97,3 +97,6 @@ Each scenario reflects different market and cost conditions to evaluate earnings
 - Integrate ratios such as ROIC, EBITDA margin, and FCF conversion 
 
 ---
+
+## About Me
+Hi, I’m Vy Nguyen and I’m currently pursuing my MS in Business Analytics at UC Irvine. I’m passionate about data analytics in Finance and Investment. Connect with me on [LinkedIn](https://www.linkedin.com/in/vy-ngoc-lan-nguyen).
